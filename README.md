@@ -19,6 +19,10 @@
   <img src="https://img.shields.io/badge/runs-100%25%20local-green?style=for-the-badge" alt="100% Local">
 </p>
 
+<p align="center">
+  <a href="./README_zh.md">中文</a> | <strong>English</strong>
+</p>
+
 ---
 
 <p align="center">
