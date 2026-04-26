@@ -51,7 +51,7 @@ Import 2 videos or 200. Configure once. Click Run. Walk away.
 - Batch subtitle editor: review and refine all videos in one interface
 
 **AI Speech Recognition**
-- Whisper (multilingual, 14 languages) + FunASR (Chinese-optimized)
+- Built-in multilingual engine (14 languages) + FunASR (Chinese-optimized)
 - Silero VAD pre-filter eliminates phantom subtitles from background music
 
 **Multi-Engine Translation**
@@ -91,19 +91,19 @@ Import 2 videos or 200. Configure once. Click Run. Walk away.
 
 | Language | Speech Recognition | Translation |
 |----------|:-:|:-:|
-| Chinese (Simplified/Traditional) | Whisper + FunASR | Google / DeepSeek |
-| English | Whisper | Google / DeepSeek |
-| Japanese | Whisper | Google / DeepSeek |
-| Korean | Whisper | Google / DeepSeek |
-| French | Whisper | Google / DeepSeek |
-| German | Whisper | Google / DeepSeek |
-| Spanish | Whisper | Google / DeepSeek |
-| Italian | Whisper | Google / DeepSeek |
-| Portuguese | Whisper | Google / DeepSeek |
-| Russian | Whisper | Google / DeepSeek |
-| Arabic | Whisper | Google / DeepSeek |
-| Thai | Whisper | Google / DeepSeek |
-| Vietnamese | Whisper | Google / DeepSeek |
+| Chinese (Simplified/Traditional) | ✓ + FunASR | Google / DeepSeek |
+| English | ✓ | Google / DeepSeek |
+| Japanese | ✓ | Google / DeepSeek |
+| Korean | ✓ | Google / DeepSeek |
+| French | ✓ | Google / DeepSeek |
+| German | ✓ | Google / DeepSeek |
+| Spanish | ✓ | Google / DeepSeek |
+| Italian | ✓ | Google / DeepSeek |
+| Portuguese | ✓ | Google / DeepSeek |
+| Russian | ✓ | Google / DeepSeek |
+| Arabic | ✓ | Google / DeepSeek |
+| Thai | ✓ | Google / DeepSeek |
+| Vietnamese | ✓ | Google / DeepSeek |
 
 ## System Requirements
 
@@ -119,5 +119,5 @@ Found a bug or have a feature request? Open an [Issue](https://github.com/GeekLi
 ---
 
 <p align="center">
-  Made with care by <strong>GeekLink</strong> (极客连)
+  Made with care by <strong><a href="https://geeklink.dev">GeekLink</a></strong> (极客连)
 </p>

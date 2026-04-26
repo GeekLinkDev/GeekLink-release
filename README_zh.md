@@ -51,7 +51,7 @@
 - 批量字幕编辑器：在同一个界面里审阅和修改所有视频的字幕
 
 **AI 语音识别**
-- Whisper（多语言，支持 14 种语言）+ FunASR（中文专项优化）
+- 内置多语言识别引擎（支持 14 种语言）+ FunASR（中文专项优化）
 - Silero VAD 静音预处理，消除背景音乐产生的幻觉字幕
 
 **多引擎翻译**
@@ -91,19 +91,19 @@
 
 | 语言 | 语音识别 | 翻译 |
 |------|:-:|:-:|
-| 中文（简体/繁体） | Whisper + FunASR | 谷歌 / DeepSeek |
-| 英语 | Whisper | 谷歌 / DeepSeek |
-| 日语 | Whisper | 谷歌 / DeepSeek |
-| 韩语 | Whisper | 谷歌 / DeepSeek |
-| 法语 | Whisper | 谷歌 / DeepSeek |
-| 德语 | Whisper | 谷歌 / DeepSeek |
-| 西班牙语 | Whisper | 谷歌 / DeepSeek |
-| 意大利语 | Whisper | 谷歌 / DeepSeek |
-| 葡萄牙语 | Whisper | 谷歌 / DeepSeek |
-| 俄语 | Whisper | 谷歌 / DeepSeek |
-| 阿拉伯语 | Whisper | 谷歌 / DeepSeek |
-| 泰语 | Whisper | 谷歌 / DeepSeek |
-| 越南语 | Whisper | 谷歌 / DeepSeek |
+| 中文（简体/繁体） | ✓ + FunASR | 谷歌 / DeepSeek |
+| 英语 | ✓ | 谷歌 / DeepSeek |
+| 日语 | ✓ | 谷歌 / DeepSeek |
+| 韩语 | ✓ | 谷歌 / DeepSeek |
+| 法语 | ✓ | 谷歌 / DeepSeek |
+| 德语 | ✓ | 谷歌 / DeepSeek |
+| 西班牙语 | ✓ | 谷歌 / DeepSeek |
+| 意大利语 | ✓ | 谷歌 / DeepSeek |
+| 葡萄牙语 | ✓ | 谷歌 / DeepSeek |
+| 俄语 | ✓ | 谷歌 / DeepSeek |
+| 阿拉伯语 | ✓ | 谷歌 / DeepSeek |
+| 泰语 | ✓ | 谷歌 / DeepSeek |
+| 越南语 | ✓ | 谷歌 / DeepSeek |
 
 ## 系统要求
 
@@ -119,5 +119,5 @@
 ---
 
 <p align="center">
-  由 <strong>极客连</strong>（GeekLink）用心打造
+  由 <strong><a href="https://geeklink.dev">极客连</a></strong>（GeekLink）用心打造
 </p>
