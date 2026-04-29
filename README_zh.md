@@ -17,6 +17,10 @@
   <img src="https://img.shields.io/badge/%E5%B9%B3%E5%8F%B0-macOS-black?style=for-the-badge&logo=apple" alt="macOS">
   &nbsp;
   <img src="https://img.shields.io/badge/%E8%BF%90%E8%A1%8C-100%25%20%E6%9C%AC%E5%9C%B0-green?style=for-the-badge" alt="100% 本地">
+  &nbsp;
+  <a href="https://geeklink.dev">
+    <img src="https://img.shields.io/badge/%E5%AE%98%E7%BD%91-geeklink.dev-blue?style=for-the-badge&logo=safari" alt="官网">
+  </a>
 </p>
 
 <p align="center">
@@ -107,9 +111,8 @@
 
 ## 系统要求
 
-- macOS 12.0+（Monterey 或更高版本）
-- 推荐 Apple Silicon（M1/M2/M3/M4）
-- 也支持 Intel Mac（处理速度较慢）
+- macOS 13.0+（Ventura 或更高版本）
+- 需要 Apple Silicon（M1/M2/M3/M4）
 - 最低 8 GB 内存，批量处理推荐 16 GB
 
 ## 反馈与问题

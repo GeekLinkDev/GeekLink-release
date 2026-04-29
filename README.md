@@ -17,6 +17,10 @@
   <img src="https://img.shields.io/badge/platform-macOS-black?style=for-the-badge&logo=apple" alt="macOS">
   &nbsp;
   <img src="https://img.shields.io/badge/runs-100%25%20local-green?style=for-the-badge" alt="100% Local">
+  &nbsp;
+  <a href="https://geeklink.dev">
+    <img src="https://img.shields.io/badge/Website-geeklink.dev-blue?style=for-the-badge&logo=safari" alt="Website">
+  </a>
 </p>
 
 <p align="center">
@@ -26,10 +30,10 @@
 ---
 
 <p align="center">
-  <a href="https://www.bilibili.com/video/BV1oWfnBYEUH/">
+  <a href="https://www.youtube.com/watch?v=AIEzQk_Hw5A">
     <img src="https://raw.githubusercontent.com/GeekLinkDev/GeekLink-release/main/assets/video_cover.jpg" width="600" alt="Watch Demo">
     <br>
-    <strong>Watch Demo on Bilibili</strong>
+    <strong>▶ Watch Demo on YouTube</strong>
   </a>
 </p>
 
@@ -107,9 +111,8 @@ Import 2 videos or 200. Configure once. Click Run. Walk away.
 
 ## System Requirements
 
-- macOS 12.0+ (Monterey or later)
-- Apple Silicon (M1/M2/M3/M4) recommended
-- Intel Macs supported (slower processing)
+- macOS 13.0+ (Ventura or later)
+- Apple Silicon (M1/M2/M3/M4) required
 - 8 GB RAM minimum, 16 GB recommended for batch processing
 
 ## Feedback & Issues
