@@ -79,9 +79,13 @@ Import 2 videos or 200. Configure once. Click Run. Walk away.
 
 ## Screenshots
 
-| Dashboard | Subtitle Editor |
+| Dashboard | Speech Recognition |
 |:-:|:-:|
-| ![Dashboard](https://raw.githubusercontent.com/GeekLinkDev/GeekLink-release/main/assets/dashboard.png) | ![Editor](https://raw.githubusercontent.com/GeekLinkDev/GeekLink-release/main/assets/editor.png) |
+| ![Dashboard](https://raw.githubusercontent.com/GeekLinkDev/GeekLink-release/main/assets/dashboard.png) | ![Speech Recognition](https://raw.githubusercontent.com/GeekLinkDev/GeekLink-release/main/assets/speech_recognition.png) |
+
+| Subtitle Editor | Export |
+|:-:|:-:|
+| ![Editor](https://raw.githubusercontent.com/GeekLinkDev/GeekLink-release/main/assets/editor.png) | ![Export](https://raw.githubusercontent.com/GeekLinkDev/GeekLink-release/main/assets/export.png) |
 
 ## Quick Start
 

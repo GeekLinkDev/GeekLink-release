@@ -79,9 +79,13 @@
 
 ## 截图
 
-| 仪表盘 | 字幕编辑器 |
+| 仪表盘 | 语音识别 |
 |:-:|:-:|
-| ![仪表盘](https://raw.githubusercontent.com/GeekLinkDev/GeekLink-release/main/assets/dashboard.png) | ![编辑器](https://raw.githubusercontent.com/GeekLinkDev/GeekLink-release/main/assets/editor.png) |
+| ![仪表盘](https://raw.githubusercontent.com/GeekLinkDev/GeekLink-release/main/assets/dashboard.png) | ![语音识别](https://raw.githubusercontent.com/GeekLinkDev/GeekLink-release/main/assets/speech_recognition.png) |
+
+| 字幕编辑器 | 导出 |
+|:-:|:-:|
+| ![编辑器](https://raw.githubusercontent.com/GeekLinkDev/GeekLink-release/main/assets/editor.png) | ![导出](https://raw.githubusercontent.com/GeekLinkDev/GeekLink-release/main/assets/export.png) |
 
 ## 快速开始
 
