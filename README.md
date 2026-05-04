@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">GeekLink Subtitle Factory</h1>
-<h3 align="center">极客连字幕工厂</h3>
+<h3 align="center">AI Subtitle Factory for macOS</h3>
 
 <p align="center">
   <strong>Drop 50 videos in. Get 50 subtitled videos out. One click.</strong>
@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-  <a href="./README_zh.md">中文</a> | <strong>English</strong>
+  <a href="./README_zh.md">Chinese</a> | <strong>English</strong>
 </p>
 
 ---
@@ -126,5 +126,5 @@ Found a bug or have a feature request? Open an [Issue](https://github.com/GeekLi
 ---
 
 <p align="center">
-  Made with care by <strong><a href="https://geeklink.dev">GeekLink</a></strong> (极客连)
+  Made with care by <strong><a href="https://geeklink.dev">GeekLink</a></strong>
 </p>
