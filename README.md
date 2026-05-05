@@ -6,7 +6,8 @@
 <h3 align="center">AI Subtitle Factory for macOS</h3>
 
 <p align="center">
-  <strong>Drop 50 videos in. Get 50 subtitled videos out. One click.</strong>
+  <strong>Replace 3 tools with 1 simple workflow.</strong><br>
+  Transcribe, translate, and burn in subtitles — all in one app, all on your Mac.
 </p>
 
 <p align="center">
@@ -41,11 +42,11 @@
 
 ## What is this?
 
-GeekLink Subtitle Factory is a **batch subtitle production line** for macOS.
+Before GeekLink, subtitling a video meant juggling 3 separate tools: one to transcribe, one to translate, one to burn in. Each with its own UI, its own export format, its own learning curve. Multiply that by 50 videos and you've lost a week.
 
-Most subtitle tools process one video at a time. GeekLink processes **all of them at once** — speech recognition, translation, editing, styling, and export — in a single continuous pipeline.
+GeekLink replaces that entire stack with **one drag-and-drop pipeline**. Import your videos, pick the languages, click Run. Speech recognition, AI translation, subtitle editing, styling, and export — all happen in sequence, automatically, for every video at once.
 
-Import 2 videos or 200. Configure once. Click Run. Walk away.
+Import 2 videos or 200. Configure once. Walk away.
 
 ## Features
 
