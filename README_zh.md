@@ -54,25 +54,29 @@
 - 一条进度条贯穿所有视频 —— 不再看着进度条每个视频归零重来
 - 批量字幕编辑器：在同一个界面里审阅和修改所有视频的字幕
 
-**AI 语音识别**
-- 内置多语言识别引擎（支持 14 种语言）+ FunASR（中文专项优化）
+**AI 语音识别** · [教程 →](https://geeklink.dev/use-cases/whisper-video-transcription-guide/)
+- 内置多语言识别引擎（支持 40+ 种语言）+ FunASR（中文专项优化）
 - Silero VAD 静音预处理，消除背景音乐产生的幻觉字幕
 
-**多引擎翻译**
+**智能 OCR 字幕提取** · [教程 →](https://geeklink.dev/use-cases/extract-hardcoded-subtitles-ocr/)
+- 用 AI OCR 从视频画面中提取烧录的硬编码字幕
+- 导出为可编辑的 SRT 文件，方便翻译或重新排版
+
+**多引擎翻译** · [教程 →](https://geeklink.dev/use-cases/ai-video-translation-complete-guide/)
 - 谷歌翻译（免费）/ DeepSeek AI（上下文理解更强）
-- 支持 14 种语言互译
+- 支持 40+ 种语言互译
 - 可为每个项目自定义 AI 翻译提示词
 
-**两种导出模式**
+**两种导出模式** · [教程 →](https://geeklink.dev/use-cases/add-subtitles-to-video-mac-free/)
 - 烧录字幕 —— 永久嵌入画面，任何播放器都能看
 - 可开关字幕 —— 观众可以自行开启或关闭
 
-**所见即所得的样式编辑器**
+**所见即所得的样式编辑器** · [教程 →](https://geeklink.dev/use-cases/best-subtitle-editor-mac-2026/)
 - 字体、字号、颜色、描边、阴影、位置
 - 毛玻璃背景条
 - 导出前实时预览效果
 
-**100% 本地运行，保护隐私**
+**100% 本地运行，保护隐私** · [教程 →](https://geeklink.dev/use-cases/best-local-ai-video-localization/)
 - 你的视频不会离开你的电脑
 - 不上传云端，不按分钟收费
 - 在 Apple Silicon（M1/M2/M3/M4）上原生运行
@@ -112,6 +116,19 @@
 | 阿拉伯语 | ✓ | 谷歌 / DeepSeek |
 | 泰语 | ✓ | 谷歌 / DeepSeek |
 | 越南语 | ✓ | 谷歌 / DeepSeek |
+| + 其他 30 种语言 | ✓ | 谷歌 / DeepSeek |
+
+> **[查看完整语言列表和识别准确率 →](https://geeklink.dev/use-cases/whisper-accuracy-by-language/)**
+
+## 教程 & 指南
+
+- [如何自动翻译 YouTube 视频](https://geeklink.dev/use-cases/how-to-translate-youtube-videos/)
+- [宝塚歌劇 & 日本舞台剧字幕翻译](https://geeklink.dev/use-cases/translate-takarazuka-japanese-stage-videos/)
+- [日本综艺字幕最佳工具](https://geeklink.dev/use-cases/best-tool-japanese-variety-show-subtitles/)
+- [Mac 一键给韩综/日综加字幕](https://geeklink.dev/use-cases/subtitle-korean-japanese-variety-shows-mac/)
+- [微短剧字幕翻译指南](https://geeklink.dev/use-cases/chinese-short-drama-subtitle-translation/)
+- [SRT 字幕格式指南](https://geeklink.dev/use-cases/srt-subtitle-format-guide/)
+- [查看全部使用场景 →](https://geeklink.dev/use-cases/)
 
 ## 系统要求
 
