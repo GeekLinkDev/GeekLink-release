@@ -1,0 +1,29 @@
+name: Publish Windows release asset
+
+on:
+  push:
+    branches: [windows-release]
+    paths:
+      - .release-assets/GeekLink-*-win-x64.zip
+
+permissions:
+  contents: write
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          lfs: true
+
+      - name: Verify release archive
+        run: |
+          test -s .release-assets/GeekLink-0.4.4-win-x64.zip
+          sha256sum .release-assets/GeekLink-0.4.4-win-x64.zip
+
+      - name: Attach Windows ZIP to v0.4.4
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release upload v0.4.4 .release-assets/GeekLink-0.4.4-win-x64.zip --clobber
